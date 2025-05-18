@@ -415,6 +415,9 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1025.ts
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/132.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIDS",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
 
 #EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIDS",Nick Jr
