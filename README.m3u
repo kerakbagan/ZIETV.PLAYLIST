@@ -145,7 +145,9 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/475.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",iNews
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/2203.ts
 
+
 ======INDIA======
+
 #EXTINF:-1 tvg-id="zeecinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="INDIA",Zee Cinema
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/302.ts
 
@@ -181,42 +183,6 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/58.ts
 
 #EXTINF:-1 tvg-id="Zee.MACAN" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="INDIA",ZEE Bioskop
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/53.ts
-
-#EXTINF:-1 tvg-id="zeecinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="INDIA",Zee Cinema
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/302.ts
-
-#EXTINF:-1 tvg-id="Thangathirai" tvg-logo="https://i.imgur.com/D0vx6EY.png" group-title="INDIA",ABO Thangathirai
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/464.ts
-
-#EXTINF:-1 tvg-id="Vellithirai" tvg-logo="https://i.ibb.co/GW2Bfgc/1692101707348.png" group-title="INDIA",Astro Vellathirai
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1040.ts
-
-#EXTINF:-1 tvg-id="ColorsHindi" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="INDIA",Colors HD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/401.ts
-
-#EXTINF:-1 tvg-id="ColorTamil" tvg-logo="https://i.ibb.co/tB6ghsS/1692101728228.png" group-title="INDIA",ColorsTamil
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1042.ts
-
-#EXTINF:-1 tvg-id="KTV" tvg-logo="https://i.ibb.co/XzD5Cp9/1709637829660.png" group-title="INDIA",KTV HD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1945.ts
-
-#EXTINF:-1 tvg-id="Suntv" tvg-logo="https://i.ibb.co/M9hmvx6/1709638038700.png" group-title="INDIA",SUN TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1946.ts
-
-#EXTINF:-1 tvg-id="StarVijay" tvg-logo="https://i.ibb.co/XzF98VB/1692101690228.png" group-title="INDIA",Star Vijay
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1041.ts
-
-#EXTINF:-1 tvg-id="ZeeTamil" tvg-logo="https://i.ibb.co/BsXYcgd/1692101774697.png" group-title="INDIA",ZEE Tamil
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1043.ts
-
-#EXTINF:-1 tvg-id="Adithya" tvg-logo="https://i.ibb.co/ryWr6ky/1692101745942.png" group-title="INDIA",Adithya
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1044.ts
-
-#EXTINF:-1 tvg-id="Adithya" tvg-logo="https://i.ibb.co/mXMVhtv/YDF.png" group-title="INDIA",Vaanavil
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/58.ts
-
-#EXTINF:-1 tvg-id="Zee.MACAN" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="INDIA",ZEE Bioskop
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/53.ts
 
 #======CHINESE======
 #EXTINF:-1 tvg-id="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="CHINESE",AEC
