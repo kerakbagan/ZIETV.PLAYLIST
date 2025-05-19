@@ -438,7 +438,9 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/273.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",Baby TV
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/694.ts
 
+
 #======ENTERTAINMENT======
+
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="ENTERTAINMENT",KIX
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/82.ts
 
@@ -459,27 +461,6 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/845.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="ENTERTAINMENT",HITS
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/843.ts
-
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="ENTERTAINMENT",KIX
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/82.ts
-
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="ENTERTAINMENT",AXN
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/83.ts
-
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="ENTERTAINMENT",Warner TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/86.ts
-
-#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-logo="https://i.ibb.co/r45KLr2/VZXDZD.png" group-title="ENTERTAINMENT",Lifetime
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/87.ts
-
-#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-logo="https://i.ibb.co/gJBkjCt/dghjc.png" group-title="ENTERTAINMENT",HGTV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/85.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fn2qdmL/1685164526566.png" group-title="ENTERTAINMENT",Crime & Investigation
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/845.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="ENTERTAINMENT",HITS
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/843.ts
 
 #======MOVIES======
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="MOVIES",Celestial Movies
