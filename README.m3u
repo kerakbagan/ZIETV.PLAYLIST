@@ -88,7 +88,11 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/39.ts
 
 #EXTINF:-1 tvg-id="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA",TVS
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/59.ts
+
+
 #======INDONESIA======
+
+
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/50.ts
 
@@ -137,65 +141,9 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/144.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/821LM3W/1642736412182.png" group-title="INDONESIA",O Channel
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/475.ts
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",iNews
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/2203.ts
-
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/50.ts
-
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="INDONESIA",GTV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/48.ts
-
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="INDONESIA",SCTV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/46.ts
-
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="INDONESIA",MNCTV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/49.ts
-
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/47.ts
-
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA" INDOSIAR
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/45.ts
-
-#EXTINF:-1 tvg-id="OLY8" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA",TRANS TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/43.ts
-
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="INDONESIA",TRANS 7
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/44.ts
-
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="INDONESIA",Dunia Lain
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/346.ts
-
-#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ANTV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/51.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="INDONESIA",TVRI
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/359.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDONESIA",Rtv
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/364.ts
-
-
-#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="INDONESIA",TVOne
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/142.ts
-
-
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="INDONESIA",KOMPAS TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/143.ts
-
-
-#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="INDONESIA",METRO TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/144.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/821LM3W/1642736412182.png" group-title="INDONESIA",O Channel
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/475.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",iNews
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2203.ts
 
 ======INDIA======
 #EXTINF:-1 tvg-id="zeecinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="INDIA",Zee Cinema
