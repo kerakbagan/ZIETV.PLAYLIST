@@ -232,9 +232,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/70.ts
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="JAPAN",Sony GEM TV
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/72.ts
 
-
 #======KOREA======
-
 
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="KOREA",tvN
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/75.ts
@@ -250,6 +248,7 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/77.ts
 
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://i.ibb.co/n3HP87W/xcf.png" group-title="KOREA",KBS World
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/78.ts
+
 
 #EXTINF:-1 tvg-id="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREA",K+
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/80.ts
