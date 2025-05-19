@@ -667,9 +667,7 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/112.ts
 #EXTINF:-1 tvg-id="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MOVIES",IMC
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/113.ts
 
-
 #======KNOWLEDGE======
-
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/124.ts
@@ -692,8 +690,10 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/118.ts
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="KNOWLEDGE ",History
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/119.ts
 
+
 #EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="KNOWLEDGE ",AFC
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/127.ts
+
 
 #EXTINF:-1 tvg-id="TLC.MACAN" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="KNOWLEDGE ",TLC
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/128.ts
