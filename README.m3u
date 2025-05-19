@@ -667,7 +667,9 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/112.ts
 #EXTINF:-1 tvg-id="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MOVIES",IMC
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/113.ts
 
+
 #======KNOWLEDGE======
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/124.ts
 
@@ -692,35 +694,9 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/119.ts
 #EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="KNOWLEDGE ",AFC
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/127.ts
 
+
 #EXTINF:-1 tvg-id="TLC.MACAN" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="KNOWLEDGE ",TLC
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/128.ts
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/124.ts
-
-#EXTINF:-1 tvg-id="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="KNOWLEDGE ",Discovery Asia
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/125.ts
-
-#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="KNOWLEDGE ",Animal Planet
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/123.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="KNOWLEDGE ",Love Nature
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/116.ts
-
-#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE ",BBC Earth
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/117.ts
-
-#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/118.ts
-
-#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="KNOWLEDGE ",History
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/119.ts
-
-#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="KNOWLEDGE ",AFC
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/127.ts
-
-#EXTINF:-1 tvg-id="TLC.MACAN" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="KNOWLEDGE ",TLC
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/128.ts
-
 
 #======NEWS======
 
