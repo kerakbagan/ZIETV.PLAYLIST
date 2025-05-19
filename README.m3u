@@ -148,6 +148,7 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/2203.ts
 
 ======INDIA======
 
+
 #EXTINF:-1 tvg-id="zeecinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="INDIA",Zee Cinema
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/302.ts
 
@@ -181,10 +182,12 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/1044.ts
 #EXTINF:-1 tvg-id="Adithya" tvg-logo="https://i.ibb.co/mXMVhtv/YDF.png" group-title="INDIA",Vaanavil
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/58.ts
 
+
 #EXTINF:-1 tvg-id="Zee.MACAN" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="INDIA",ZEE Bioskop
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/53.ts
 
 #======CHINESE======
+
 #EXTINF:-1 tvg-id="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="CHINESE",AEC
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/60.ts
 
@@ -221,50 +224,6 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/2123.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zCctv.png" group-title="CHINESE",CCTV4
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/2124.ts
 
-#EXTINF:-1 tvg-id="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="CHINESE",AEC
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/60.ts
-
-#EXTINF:-1 tvg-id="HUAHEITAI" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="CHINESE",Hua Hee Tai
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/61.ts
-
-#EXTINF:-1 tvg-id="QUANJIA" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png" group-title="CHINESE",Quan Jia
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/62.ts
-
-#EXTINF:-1 tvg-id="IQIYI" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="CHINESE",IQiyi
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/63.ts
-
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="CHINESE",CCM
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/65.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbJade.png" group-title="CHINESE",TVB Jade
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2118.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbXingHe.png" group-title="CHINESE",TVB Xing He
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2119.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbEntertainment.png" group-title="CHINESE",TVB Entertainment
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2120.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbs.png" group-title="CHINESE",TVBS Asia
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2121.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zPhoenix.png" group-title="CHINESE",Phoenix Chinese Channel
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2122.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zCti.png" group-title="CHINESE",Cti Asia
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2123.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://link.zozotv.xyz:8080/pic/zCctv.png" group-title="CHINESE",CCTV4
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/2124.ts
-
-#EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="JAPAN",Animax
-https://link.zozotv.xyz/live/mdfazrin86/ztv728269/69.ts
-
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://i.ibb.co/cDJYGmg/yiuy.png" group-title="JAPAN",Aniplus
-https://link.zozotv.xyz/live/mdfazrin86/ztv728269/70.ts
-
-#EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="JAPAN",Sony GEM TV
-https://link.zozotv.xyz/live/mdfazrin86/ztv728269/72.ts
 
 #======JAPAN======
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="JAPAN",Animax
