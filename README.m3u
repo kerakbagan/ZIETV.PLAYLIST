@@ -508,12 +508,11 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/792.ts
 #EXTINF:-1 tvg-id="EPL1" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS",Premier League
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26312.ts
 
-#EXTINF:-1 tvg-id="EPL1 B" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS",Premier League B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDMyOTAwMzYsImlzcyI6IlZSIiwiZXhwIjoxNzQzMzczODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmJlY2ZlZTktYmQzZC00OGU3LTg0NmMtMTBhZjk5MDYxM2EyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.ti8meycTLMhLqXtXUq3vlcM3vByPWw8HcFqALXZ2PJs"}
-#EXTINF:-1 tvg-id="811.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports",Premier League
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports",Premier League (B)
 https://l01.dp.sooka.my/601/linear/index.mpd
 
 #EXTINF:-1 tvg-id="EPL2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS",Premier League 2
