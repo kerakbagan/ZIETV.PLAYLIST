@@ -656,9 +656,9 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" ch-number="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",801 Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" ch-number="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",801 Astro Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
