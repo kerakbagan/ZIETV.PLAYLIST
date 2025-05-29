@@ -60,6 +60,12 @@ https://link.zozotv.xyz/live/mdfazrin86/ztv728269/28.ts
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/30.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="Malay",Oasis
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
 https://link.zozotv.xyz/live/mdfazrin86/ztv728269/532.ts
 
